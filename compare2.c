@@ -1,5 +1,7 @@
 /*
- *  This code shows tha tou can pass the scheduling policy at the cammand line and then use the sched_setscheduler function to set the scheduling policy
+ * Jonathan Lam
+ * Based on source code. This program uses Linux Scheduling to see the affects
+ * of scheduling on an I/O intensive program.
  */
 
 

@@ -1,6 +1,7 @@
 /*
-** EDITED SOURCE CODE PROVIDED BY THE INSTRUCTOR
-** This program illustrates the use of clock_gettime
+** Jonathan Lam
+** Based on source code. Compares the amount of time to make a system
+** call verses a call to a simple empty function.
 */
 
 #include <stdio.h>

@@ -1,3 +1,9 @@
+/*
+ * Jonathan Lam
+ * This program displays the CPU info and kernel info when executed.
+*/
+
+
 #include <stdio.h>
 #include <stdint.h>
 #include <stdlib.h>
